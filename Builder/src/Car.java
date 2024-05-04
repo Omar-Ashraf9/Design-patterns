@@ -6,6 +6,7 @@ public class Car {
         private int price;
 
         public CarBuilder() {}
+
         public CarBuilder Color(String color) {
             this.color = color;
             return this;
