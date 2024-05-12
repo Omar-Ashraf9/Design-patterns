@@ -9,8 +9,5 @@ public class Main {
 
         store.newProductArrived("Apple");
         store.newProductArrived("Banana");
-
-
-
     }
 }
